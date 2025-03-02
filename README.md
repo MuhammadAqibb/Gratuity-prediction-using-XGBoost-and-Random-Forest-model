@@ -1,2 +1,2 @@
-# Gratuity-prediction-using-XGBoost-and-Random-Forest-model
-Gratuity prediction and factors affecting gratuity and increasing the taxi driver satisfaction.
+# Passenger-Gratuity-prediction-using-XGBoost-and-Random-Forest-models
+Gratuity prediction and factors affecting gratuity, thereby increasing the taxi drivers' satisfaction.
